@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is **Gisela Ortt** 🙆‍♀️ I am Brazilian 🇧🇷 I like to code and am available for hiring.
+I travel a lot while working remote and I like to study languages(both human and computer), currently learning German 🇩🇪 Reach me out to do a tanden/language exchange!
 
 Check my [LinkedIn profile](https://www.linkedin.com/in/gisela-ortt-2bb40a196/) 💬
 
