@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**giselaortt/giselaortt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Gisela Ortt** 🙆‍♀️ I am Brazilian 🇧🇷 I like to code and am available for hiring.
 
-Here are some ideas to get you started:
+Check my [LinkedIn profile](https://www.linkedin.com/in/gisela-ortt-2bb40a196/) 💬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working building a portifolio
+- 🌱 I’m currently learning data science and ML liberies
+- 👯 I’m looking to collaborate on open souece language apps such as ANKI
+- 🤔 I’m looking for help with getting a job on witch I can do a lot of coding.
+- 💬 Ask me about my language learning method
+- 📫 How to reach me: ms.giselaortt@gmail.com
+- 😄 Pronouns: She/het
+- ⚡ Fun fact: I am a Digital Nomad!
