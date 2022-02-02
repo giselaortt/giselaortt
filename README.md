@@ -16,7 +16,7 @@ I travel a lot while working remote and I like to study languages(both human and
  
  <h3 align="left"> Find me on: </h3> 
  <a href="https://www.linkedin.com/in/gisela-ortt-2bb40a196/" target="blank"><img align="center" src="linkedinLogo.png" alt="linkedin" height="30" width="30"/>  </a>
- <a href="https://www.instagram.com/giselaortt/" target="blank"><img align="center" src="instagramLogo.png" alt="instagram" height="30" width="30"/> </a>
+ <a href="https://www.instagram.com/giselaortt/" target="blank"><img align="center" src="instagram.png" alt="instagram" height="30" width="30"/> </a>
  <a href="https://www.couchsurfing.com/people/giselaortt" target="blank"><img align="center" src="couchsurfingLogo.png" alt="couchsurfing" height="30" width="30"/> </a>
 
  </div>
