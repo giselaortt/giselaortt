@@ -14,7 +14,7 @@ I travel a lot while working remote and I like to study languages(both human and
 
  <div>
  <h3 align="left"> More information on: </h3> 
- <a href="https://www.linkedin.com/in/gisela-ortt-2bb40a196/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
+ <a href="https://www.linkedin.com/in/gisela-ortt-2bb40a196/" target="blank"><img align="center" src="linkedinLogo.png" alt="linkedin" height="30" width="30" /></a>
   
 
 
