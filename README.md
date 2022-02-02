@@ -19,5 +19,5 @@ I travel a lot while working remote and I like to study languages(both human and
  <a href="https://www.instagram.com/giselaortt/" target="blank"><img align="center" src="instagramLogo.png" alt="instagram" height="30" width="30"/> </a>
  <a href="https://www.couchsurfing.com/people/giselaortt" target="blank"><img align="center" src="couchsurfingLogo.jpg" alt="couchsurfing" height="30" width="30"/> </a>
 
- <\div>
+ </div>
 
