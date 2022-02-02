@@ -10,9 +10,11 @@ I travel a lot while working remote and I like to study languages(both human and
   
 <h3 align="left"> Reach me on: </h3>  
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center">](mailto:ms.giselaortt@gmail.com)
- 
-  
+<br> 
 </div>
+
+
+
 
 
 - 🔭 I’m currently working on automatization for my language learning method
