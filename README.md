@@ -23,15 +23,3 @@ My name is **Gisela Ortt** 🙆‍♀️
 <h2> Skills </h2>
 	
 
-<a href="https://www.python.org" target="_blank">
-	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-	<img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-	<img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-</a>
-
