@@ -11,18 +11,17 @@ My name is **Gisela Ortt** 🙆‍♀️
 - 🌱 Vegan 🌎 Digital Nomad and 🏳️‍🌈Ace/Demi
 
 
-### Check Out my [personal Blog](https://giselaortt.github.io/), still in construction!
+### Check Out my [personal Blog!](https://giselaortt.github.io/) (still in construction, give it a bit of time)
 
 
- <div>
+### Find me on:
  
- <h3 align="left"> Find me on: </h3> 
+ <div>
  <a href="https://www.linkedin.com/in/gisela-ortt-2bb40a196/" target="blank"><img align="center" src="linkedinLogo.png" alt="linkedin" height="30" width="30"/>  </a>
  <a href="https://www.instagram.com/giselaortt/" target="blank"><img align="center" src="instagram.png" alt="instagram" height="30" width="30"/> </a>
  <a href="https://www.couchsurfing.com/people/giselaortt" target="blank"><img align="center" src="couchsurfing.png" alt="couchsurfing" height="30" width="30"/> </a>
 
  </div>
 
-<h2> Skills </h2>
 	
 
