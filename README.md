@@ -11,7 +11,7 @@ My name is **Gisela Ortt** 🙆‍♀️
 - 🌱 Vegan 🌎 Digital Nomad and 🏳️‍🌈Ace/Demi
 
 
-### Check Out my [personal Blog!](https://giselaortt.github.io/) (still in construction, give it a bit of time)
+### Check Out my [personal Blog!](https://giselaortt.github.io/) (still in construction)
 
 
 ### Find me on:
