@@ -8,8 +8,6 @@ My name is **Gisela Ortt** 🙆‍♀️
 - 🤔 I’m looking for help with getting a job on witch I can do a lot of coding and is remote.
 - 💬 Ask me about my language learning method
 - 📫 How to reach me: ms.giselaortt@gmail.com
-- 🌱 Vegan 🌎 Digital Nomad and 🏳️‍🌈Ace/Demi
-
 
 ### Check Out my [personal Blog!](https://giselaortt.github.io/) (still in construction)
 
