@@ -9,7 +9,7 @@ My name is **Gisela Ortt** 🙆‍♀️
 - 💬 Ask me about my language learning method
 - 📫 How to reach me: ms.giselaortt@gmail.com
 
-### Check Out my [personal Blog!](https://giselaortt.github.io/) (still in construction)
+### Check Out my [personal Portifolio!](https://giselaortt.github.io/)
 
 
 ### Find me on:
