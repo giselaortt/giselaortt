@@ -4,8 +4,7 @@ My name is **Gisela Ortt** 🙆‍♀️
 
 - 🇧🇷 From Brazil
 - 🔭 Fascinated about spaced repetition learning
-- 🍪 Creator of Anki content
-- 🌱 I’m currently learning HTML/CSS, Django, ML liberies, and German language
+- 🌱 I’m currently learning HTML/CSS, Django, SQL, ML liberies, and German language
 - 🤔 I’m looking for help with getting a job on witch I can do a lot of coding and is remote.
 - 📫 How to reach me: ms.giselaortt@gmail.com
 
