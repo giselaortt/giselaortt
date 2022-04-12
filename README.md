@@ -2,11 +2,8 @@
 
 My name is **Gisela Ortt** 🙆‍♀️ 
 
-- 🇧🇷 From Brazil
-- 🔭 Fascinated about spaced repetition learning
-- 🌱 I’m currently learning HTML/CSS, Django, SQL, ML liberies, and German language
-- 🤔 I’m looking for help with getting a job on witch I can do a lot of coding and is remote
-- 📫 How to reach me: ms.giselaortt@gmail.com
+From Brazil, i am currently working as software developer and i am always studying different topics in computer sciences.
+check me on [codeforces](https://codeforces.com/profile/giselaortt), [beecrowd](https://www.beecrowd.com.br/judge/en/profile/86852), and [hackerrank](https://www.beecrowd.com.br/judge/en/profile/86852)
 
 ### Check Out my [personal portifolio!](https://giselaortt.github.io/)
 
