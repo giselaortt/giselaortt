@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Gisela Ortt** 🙆‍♀️ 
+I am **Gisela Ortt** 🙆‍♀️ 
 
 From Brazil, i am currently working as software developer and i am always studying different topics in computer sciences.
 I have been solving problems on 3 websites: [codeforces](https://codeforces.com/profile/giselaortt), [beecrowd](https://www.beecrowd.com.br/judge/en/profile/86852), and [hackerrank](https://www.hackerrank.com/ms_giselaortt)
