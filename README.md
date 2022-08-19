@@ -2,10 +2,9 @@
 
 I am **Gisela Ortt** 🙆‍♀️ 
 
-I am studying computer science.
 I have been solving problems on 3 websites: [codeforces](https://codeforces.com/profile/giselaortt), [beecrowd](https://www.beecrowd.com.br/judge/en/profile/86852), and [hackerrank](https://www.hackerrank.com/ms_giselaortt)
 
-Check Out my [personal portifolio!](https://giselaortt.github.io/)
+Check Out my [personal blog!](https://giselaortt.github.io/)
 
 
 Find me on:
