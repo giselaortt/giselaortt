@@ -6,6 +6,7 @@ I have been solving problems on 3 websites: [codeforces](https://codeforces.com/
 
 Check Out my [personal blog!](https://giselaortt.github.io/)
 
+I speak german, portuguese, english and a bit of spanish.
 
 Find me on:
  
