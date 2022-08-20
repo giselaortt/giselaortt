@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-I am **Gisela Ortt** 🙆‍♀️ 
+I am **Gisela Ortt** 🙆‍♀️  **Open to Work!**
+
+
 
 I have been solving problems on 3 websites: [codeforces](https://codeforces.com/profile/giselaortt), [beecrowd](https://www.beecrowd.com.br/judge/en/profile/86852), and [hackerrank](https://www.hackerrank.com/ms_giselaortt)
 
 Check Out my [personal blog!](https://giselaortt.github.io/)
 
 I speak german, portuguese, english and a bit of spanish.
+
+I can code java, python, c, c++ and sql.
 
 Find me on:
  
