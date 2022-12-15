@@ -1,9 +1,9 @@
 
-Speak/Falo Deutsch, Português, English.
+Português, English, Deutsch
 
 Java, python, c, c++ and sql
 
-ASC - TEA
+ASD - TEA
 
 
 Find me on:
