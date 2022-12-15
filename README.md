@@ -3,7 +3,7 @@ Speak/Falo Deutsch, Português, English.
 
 Java, python, c, c++ and sql
 
-ASD - TEA
+ASC - TEA
 
 
 Find me on:
