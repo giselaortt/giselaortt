@@ -1,6 +1,8 @@
 
-I speak german, portuguese, english.
-Java, python, c, c++ and sql.
+Speak/Falo Deutsch, Português, English.
+
+Java, python, c, c++ and sql
+
 ASD - TEA
 
 
